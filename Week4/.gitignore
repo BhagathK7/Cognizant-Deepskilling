@@ -1,0 +1,55 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# STS
+.springBeans
+
+# NetBeans
+nbproject/
+nbactions.xml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Maven Wrapper (keep these)
+!.mvn/
+!mvnw
+!mvnw.cmd
+
+# Temporary
+*.tmp
+*.temp
+
+# Environment
+.env
+.env.*
+
+# Build
+out/
+bin/
+
+# Node (if any React projects later)
+node_modules/
+
+# Coverage
+coverage/
