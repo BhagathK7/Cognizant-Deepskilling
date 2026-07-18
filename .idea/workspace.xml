@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e9d71f-3d2c-4acc-a363-1bddc37f3dfb" name="Changes" comment="" />
+    <list default="true" id="d4e9d71f-3d2c-4acc-a363-1bddc37f3dfb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/hol5-blogapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/hol5-blogapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/hol5-blogapp/src/Components/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/hol5-blogapp/src/Components/Posts.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +40,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/bhaga/OneDrive/Documents/CTS/Cognizant-Deepskilling",
+    "onboarding.tips.debug.path": "C:/Users/bhaga/OneDrive/Documents/CTS/Cognizant-Deepskilling/Practise/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
