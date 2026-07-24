@@ -10,7 +10,7 @@ This repository contains my hands-on exercises and practice assignments complete
 - Week 4 – SonarQube & Microservices
 - Week 5 – React (HOL 1–10)
 - Week 6 – React (HOL 11–19)
-- Week 7 – Git, CI/CD, Docker, Cloud & GenAI *(In Progress)*
+- Week 7 – Git, CI/CD, Docker, Cloud & GenAI
 
 ## Technologies
 
